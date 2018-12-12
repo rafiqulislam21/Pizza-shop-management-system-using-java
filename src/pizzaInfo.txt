@@ -1,0 +1,27 @@
+BBQ Temtation|small|600
+BBQ Temtation|medium|750
+BBQ Temtation|large|1000
+Tropical Chicken|small|550
+Tropical Chicken|medium|700
+Tropical Chicken|large|950
+Spicy Beef|small|650
+Spicy Beef|medium|800
+Spicy Beef|large|1200
+BBQ Blast|small|550
+BBQ Blast|medium|700
+BBQ Blast|large|1000
+Chicken Hawalian|small|500
+Chicken Hawalian|medium|680
+Chicken Hawalian|large|980
+Red N hot|small|520
+Red N hot|medium|720
+Red N hot|large|920
+Meat Lovens|small|480
+Meat Lovens|medium|650
+Meat Lovens|large|980
+Chicken Royal|small|510
+Chicken Royal|medium|710
+Chicken Royal|large|1100
+Neapolitan|small|650
+Neapolitan|medium|850
+Neapolitan|large|1250
